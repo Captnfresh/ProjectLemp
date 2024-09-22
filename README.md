@@ -368,7 +368,7 @@ To save the index.html file, use Ctrl + S and Ctrl + X to exit
     If you're seeing this page, it means your PHP environment is ready to connect and interact with your MySQL server
  
 
-CONGRATULATIONS!!!!! you just complted your first LEMP web-stack in the cloud.
+CONGRATULATIONS!!!!! you just completed your first LEMP web-stack in the cloud.
 
 
 ## Challenges faced
