@@ -371,6 +371,20 @@ To save the index.html file, use Ctrl + S and Ctrl + X to exit
 CONGRATULATIONS!!!!! you just complted your first LEMP web-stack in the cloud.
 
 
+## Challenges faced
+
+While working with MySQL, I faced errors like
+1. ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock'
+2. ERROR 1054 (42S22): Unknown column 'content' in 'field list'
+
+
+# Resolutions
+This project marked my first comprehensive introduction to MySQL. 
+After conducting research, I resolved the issue by stopping and uninstalling a previously running MySQL database, as I had completed the project twice to reinforce my understanding. During the second attempt, I also resolved a separate issue by creating the missing content column in the database.
+
+Despite these challenges, the learning process has been incredibly rewarding. Problem-solving skills has been honed.
+
+
 
 
 
